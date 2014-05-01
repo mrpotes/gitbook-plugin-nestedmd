@@ -1,0 +1,31 @@
+{
+  "name": "gitbook-plugin-nestedmd",
+  "description": "Process markdown nested in HTML",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/mrpotes/gitbook-plugin-nestedmd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrpotes/gitbook-plugin-nestedmd.git"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/mrpotes/gitbook-plugin-nestedmd/issues"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "marked": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin"
+  ],
+  "author": "James Phillpotts <james.phillpotts@gmail.com> (http://github.com/mrpotes)"
+}
