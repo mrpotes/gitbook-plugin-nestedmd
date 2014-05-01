@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "lodash": "^2.4.1",
-    "marked": "^0.3.2"
+    "marked": "https://github.com/mrpotes/marked/tarball/html-structure"
   },
   "devDependencies": {},
   "scripts": {
